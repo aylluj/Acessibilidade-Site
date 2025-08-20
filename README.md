@@ -12,14 +12,16 @@
         <div class="inicio-fundo d-flex justify-content-between align-items-center">
                 <div class="esquerda-conteudo">
                         <h1 class="display-4 text-white fst-italic fw-bold">Kali Uchis</h1>
-                        <img src="KaliUchisPerf.jpg" class="mb-3" width="563"
-                                height="278" loading="lazy">
+                        <img src="KaliUchisPerf.jpg" class="mb-3" width="450"
+                                height="500" loading="lazy">
                         <a href="#kali Uchis"
                                 class="btn btn-primary btn-lg botao-inicio fw-semibold">COUGHS, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons
 KaliUchisPerf.jpg
 
 </div>
-                <img src="Kali_Uchis_2019_3.jpg" class="img-fluid img-inicio">
+                <img src="Kali_Uchis_2019_3.jpg" class="img-fluid img-inicio" width="600" heigth="600"> 
+            <href= Finish Line, CC BY 3.0 <https://creativecommons.org/licenses/by/3.0>, via Wikimedia Commons
+Kali Uchis 2019 3.jpg
             </div>
 </section>
 
