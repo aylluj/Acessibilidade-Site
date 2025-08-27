@@ -11,8 +11,12 @@
                 <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
             </ul>
          <div id="acessibilidade">
+         <button id="botão-acessibilidade" class="btn btn-primary fw-bold.rotacao-botao">acessibilidade</button>
+         <div id="opçoẽs-acessibilidade" class="opcoes-acessibilidade apresenta-lista>
+
 <button id="aumentar-fonte" class="btn btn-primary fw-bold">A+</button>
 <button id="diminuir-fonte" class="btn btn-primary fw-bold">A-</button>
+       </div>
        </div>
     </nav>
 </header>
@@ -42,7 +46,7 @@ Kali Uchis 2019 3.jpg
 
 </section>
 
-<section id="tropicalia" class="my-5 pt-6 secao-tropicalia">
+<section id="Kali Uchis" class="my-5 pt-6 secao-Kali Uchis">
         <div class="container d-flex align-items-center">
                 <div class="col-4 d-flex justify-content-center">
                 </div>
