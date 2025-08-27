@@ -13,9 +13,9 @@
          <div id="acessibilidade">
          <button id="botão-acessibilidade" class="btn btn-primary fw-bold.rotacao-botao">acessibilidade</button>
          <div id="opçoẽs-acessibilidade" class="opcoes-acessibilidade apresenta-lista>
-
-<button id="aumentar-fonte" class="btn btn-primary fw-bold">A+</button>
-<button id="diminuir-fonte" class="btn btn-primary fw-bold">A-</button>
+         
+<button id="aumentar-fonte-botao" class="btn btn-primary fw-bold">A+</button>
+<button id="diminuir-fonte-botao" class="btn btn-primary fw-bold">A-</button>
        </div>
        </div>
     </nav>
@@ -86,6 +86,7 @@ Kali Uchis 2019 3.jpg
 <footer class="text center-p-3 fst-italic">
 <p class="mt-3">Desenvolvido por Jullya 2°E.</p>
 </footer>
+<script src="script.js"> </script>
 </body>
 
 </html>
