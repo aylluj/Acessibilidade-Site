@@ -76,7 +76,7 @@ Kali Uchis 2019 3.jpg
                                 <img src="_102774584_kali1.jpg" width="300" heigth="350" class="img-fluid rounded-5" loading="lazy">
                         </div>
                         <div class="col-md-4">
-                                <img src="kali-uchis.jpg" width="300" heigth="300"
+                                <img src="Kali-uchis.jpg" width="300" heigth="300"
                                         class="img-fluid rounded-5" loading="lazy">
                         </div>
                 </div>
@@ -86,7 +86,7 @@ Kali Uchis 2019 3.jpg
 <footer class="text center-p-3 fst-italic">
 <p class="mt-3">Desenvolvido por Jullya 2°E.</p>
 </footer>
-<script src="script.js"> </script>
+<script src="botao.js"> </script>
 </body>
 
 </html>
