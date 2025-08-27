@@ -86,8 +86,6 @@ Kali Uchis 2019 3.jpg
 <footer class="text center-p-3 fst-italic">
 <p class="mt-3">Desenvolvido por Jullya 2°E.</p>
 </footer>
-<script src="script.js"></script>
-
 </body>
 
 </html>
