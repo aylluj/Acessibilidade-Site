@@ -2,7 +2,7 @@
 <html lang="pt-br">
 <body>
     <header class=" p-5">
-        
+<!-- Estilos  -->        
  <nav class="container d-flex justify-content-between align-items-center">
  <img src="KU_Amaury-Nessaibia.webp" width="450" heigth="600"class="nav-img" loading="lazy">
  <ul class="nav mt-5">
@@ -10,6 +10,7 @@
                 <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
             </ul>
+            <!-- Menu de Acessibilidade -->
         <div id="acessibilidade" class="menu-acessibilidade"> 
         <button id="botao-acessibilidade" class="btn btn-primary fw-bold rotacao-botao" aria-expanded="false">acessibilidade</button>
         <div id="opcoes-acessibilidade" class="opcoes-acessibilidade apresenta-lista">
@@ -21,6 +22,7 @@
        </div>
     </nav>
 </header>
+<!-- Hero Section -->
 <section id="Kali Uchis" class="my-5 pt-6 secao-Kali">
         <div class="container d-flex align-items-center ">
                 <div class="col-5">
