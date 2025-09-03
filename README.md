@@ -74,7 +74,7 @@ Kali Uchis 2019 3.jpg
                 </div>
                 <div class="row mt-4 justify-content-md-center">
                         <div class="col-md-4">
-                                <img src="_102774584_kali1.jpg" width="300" heigth="350" class="img-fluid rounded-5" loading="lazy">
+                                <img src="_102774584_kali1.jpg" width="350" heigth="350" class="img-fluid rounded-5" loading="lazy">
                         </div>
                         <div class="col-md-4">
                                 <img src="kali-uchis.jpg" width="300" heigth="300"
