@@ -15,8 +15,24 @@ document.addEventListener('DOMContentLoaded', function(){
 
     })
 
-})
-
+.menu-acessibilidade{
+    position: fixed;
+    top: 2 rem;
+    rigth: 20 px;
+    z-index; 1000;
+}
+   .rotacao-botao{ 
+      transform: rotate(-90deg);
+      transform-origin: right center;
+}
+.opcoes-acessibilidade{
+    margin-top:10px;
+    display: flex;
+    flex-direction: column;
+}
+.opcoes-acessibilidade button{
+    margin-bottom: 5px;
+}
 const botaoDeAcessibilidade = document.getElementById('botao-acessibilidade')
 const opcoesDeAcessibilidade = document.getElementById('opcoes-acessibilidade')
 botaoDeAcessibilidade.addEventListener('click', function (){

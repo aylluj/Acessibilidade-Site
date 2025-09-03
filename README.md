@@ -10,13 +10,14 @@
                 <li class="nav-item"><a class="nav-link" href="#galeria">Galeria</a></li>
                 <li class="nav-item"><a class="nav-link" href="#contato">Contato</a></li>
             </ul>
-         <div id="acessibilidade">
-         <button id="botão-acessibilidade" class="btn btn-primary fw-bold.rotacao-botao">acessibilidade</button>
-         <div id="opçoẽs-acessibilidade" class="opcoes-acessibilidade apresenta-lista>
-         
-<button id="aumentar-fonte-botao" class="btn btn-primary fw-bold">A+</button>
-<button id="diminuir-fonte-botao" class="btn btn-primary fw-bold">A-</button>
-       </div>
+        <div id="acessibilidade" class="menu-acessibilidade"> 
+        <button id="botao-acessibilidade" class="btn btn-primary fw-bold rotacao-botao" aria-expanded="false">acessibilidade</button>
+        <div id="opcoes-acessibilidade" class="opcoes-acessibilidade apresenta-lista">
+                <button id="aumentar-fonte" class="btn btn-primary fw-bold" aria-label="Aumentar o tamanho da fonte">A+</button>
+                <button id="diminuir-fonte" class="btn btn-primary fw-bold" aria-label="diminuir o tamanho da fonte">A-</button>
+                <button id="alterna-contraste" class="btn btn-primary fw-bold" aria-label="Alterna o contraste de cores"> <i class="bi bi-shadows"></i></button>
+        </div>
+</div>
        </div>
     </nav>
 </header>
